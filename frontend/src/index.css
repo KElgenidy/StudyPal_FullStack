@@ -1,0 +1,12 @@
+:root {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  background-color: #65AFFF;
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
